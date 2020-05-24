@@ -5,4 +5,5 @@ ian resolusi :
       expert di php dan mysql
       expert di vue js
       expert di python 
+3. membuat sesuatu yang berguna seperti bot, website pribadi, website bisnis,mengerjakan project, dll
       
